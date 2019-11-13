@@ -1,0 +1,283 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "sku": "01234567890",
+      "title": "Подарок 1",
+      "description": "1/1 s/nº",
+      "availableSizes": ["XS", "S", "M", "XXL"],
+      "style": "Подарок 1",
+      "price": 100,
+      "installments": 1,
+      "currencyId": "RUR",
+      "currencyFormat": "₽",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 1,
+      "sku": "01234567891",
+      "title": "Подарок 2",
+      "description": "2/2 s/nº",
+      "availableSizes": ["M", "ML", "L", "S"],
+      "style": "Подарок 2",
+      "price": 200,
+      "installments": 2,
+      "currencyId": "RUR",
+      "currencyFormat": "₽",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 2,
+      "sku": "01234567892",
+      "title": "Подарок 3",
+      "description": "3/3 s/nº",
+      "availableSizes": ["L", "XL", "XXL"],
+      "style": "Подарок 3",
+      "price": 300,
+      "installments": 3,
+      "currencyId": "RUR",
+      "currencyFormat": "₽",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 3,
+      "sku": "01234567893",
+      "title": "Подарок 4",
+      "description": "4/4 s/nº",
+      "availableSizes": ["XXL", "XXXL", "S"],
+      "style": "Подарок 4",
+      "price": 400,
+      "installments": 4,
+      "currencyId": "RUR",
+      "currencyFormat": "₽",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 4,
+      "sku": "01234567890",
+      "title": "Подарок 5",
+      "description": "5/5 s/nº",
+      "availableSizes": ["S", "M", "ML"],
+      "style": "Подарок 5",
+      "price": 500,
+      "installments": 5,
+      "currencyId": "RUR",
+      "currencyFormat": "₽",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 5,
+      "sku": "01234567891",
+      "title": "Подарок 6",
+      "description": "6/6 s/nº",
+      "availableSizes": ["ML", "L", "XL"],
+      "style": "Подарок 6",
+      "price": 600,
+      "installments": 6,
+      "currencyId": "RUR",
+      "currencyFormat": "₽",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 6,
+      "sku": "01234567892",
+      "title": "Подарок 7",
+      "description": "7/7 s/nº",
+      "availableSizes": ["XL", "XXL", "XXXL"],
+      "style": "Подарок 7",
+      "price": 700,
+      "installments": 7,
+      "currencyId": "RUR",
+      "currencyFormat": "₽",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 7,
+      "sku": "01234567893",
+      "title": "Подарок 8",
+      "description": "8/8 s/nº",
+      "availableSizes": ["XXXL", "XS", "S"],
+      "style": "Подарок 8",
+      "price": 800,
+      "installments": 8,
+      "currencyId": "RUR",
+      "currencyFormat": "₽",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 8,
+      "sku": "01234567890",
+      "title": "Подарок 9",
+      "description": "9/9 s/nº",
+      "availableSizes": ["S", "M", "ML"],
+      "style": "Подарок 9",
+      "price": 900,
+      "installments": 9,
+      "currencyId": "RUR",
+      "currencyFormat": "₽",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 9,
+      "sku": "01234567891",
+      "title": "Подарок 10",
+      "description": "10/10 s/nº",
+      "availableSizes": ["ML", "L", "XL"],
+      "style": "Подарок 10",
+      "price": 1000,
+      "installments": 10,
+      "currencyId": "RUR",
+      "currencyFormat": "₽",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 10,
+      "sku": "01234567892",
+      "title": "Подарок 11",
+      "description": "11/11 s/nº",
+      "availableSizes": ["XL", "XXL", "XXXL"],
+      "style": "Подарок 11",
+      "price": 1100,
+      "installments": 11,
+      "currencyId": "RUR",
+      "currencyFormat": "₽",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 11,
+      "sku": "01234567893",
+      "title": "Подарок 12",
+      "description": "12/12 s/nº",
+      "availableSizes": ["XXXL", "XS", "S"],
+      "style": "Подарок 12",
+      "price": 1200,
+      "installments": 12,
+      "currencyId": "RUR",
+      "currencyFormat": "₽",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 12,
+      "sku": "01234567890",
+      "title": "Подарок 13",
+      "description": "13/13 s/nº",
+      "availableSizes": ["M", "ML", "L"],
+      "style": "Подарок 13",
+      "price": 1300,
+      "installments": 13,
+      "currencyId": "RUR",
+      "currencyFormat": "₽",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 13,
+      "sku": "01234567891",
+      "title": "Подарок 14",
+      "description": "14/14 s/nº",
+      "availableSizes": ["L", "XL", "XXL"],
+      "style": "Подарок 14",
+      "price": 1400,
+      "installments": 14,
+      "currencyId": "RUR",
+      "currencyFormat": "₽",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 14,
+      "sku": "01234567892",
+      "title": "Подарок 15",
+      "description": "15/15 s/nº",
+      "availableSizes": ["XXL", "XXXL", "XS"],
+      "style": "Подарок 15",
+      "price": 1500,
+      "installments": 15,
+      "currencyId": "RUR",
+      "currencyFormat": "₽",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 15,
+      "sku": "01234567893",
+      "title": "Подарок 16",
+      "description": "16/16 s/nº",
+      "availableSizes": ["XS", "S", "M"],
+      "style": "Подарок 16",
+      "price": 1600,
+      "installments": 16,
+      "currencyId": "RUR",
+      "currencyFormat": "₽",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 16,
+      "sku": "01234567890",
+      "title": "Подарок 17",
+      "description": "17/17 s/nº",
+      "availableSizes": ["M", "ML", "L"],
+      "style": "Подарок 17",
+      "price": 1700,
+      "installments": 7,
+      "currencyId": "RUR",
+      "currencyFormat": "₽",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 17,
+      "sku": "01234567891",
+      "title": "Подарок 18",
+      "description": "18/18 s/nº",
+      "availableSizes": ["L", "XL", "XXL"],
+      "style": "Подарок 18",
+      "price": 1800,
+      "installments": 18,
+      "currencyId": "RUR",
+      "currencyFormat": "₽",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 18,
+      "sku": "01234567892",
+      "title": "Подарок 19",
+      "description": "19/19 s/nº",
+      "availableSizes": ["XXL", "XXXL", "XS"],
+      "style": "Подарок 19",
+      "price": 1900,
+      "installments": 19,
+      "currencyId": "RUR",
+      "currencyFormat": "₽",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 19,
+      "sku": "01234567893",
+      "title": "Подарок 20",
+      "description": "20/20 s/nº",
+      "availableSizes": ["XS", "S", "M"],
+      "style": "Подарок 20",
+      "price": 2000,
+      "installments": 20,
+      "currencyId": "RUR",
+      "currencyFormat": "₽",
+      "isFreeShipping": false
+    }
+  ]
+}
